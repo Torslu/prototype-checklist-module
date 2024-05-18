@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/prototype-checklist-module/static/css/main.e8904428.css",
+    "main.js": "/prototype-checklist-module/static/js/main.9b7535ee.js",
+    "index.html": "/prototype-checklist-module/index.html",
+    "main.e8904428.css.map": "/prototype-checklist-module/static/css/main.e8904428.css.map",
+    "main.9b7535ee.js.map": "/prototype-checklist-module/static/js/main.9b7535ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8904428.css",
+    "static/js/main.9b7535ee.js"
+  ]
+}
